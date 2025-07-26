@@ -1,8 +1,8 @@
 # Pseudocodigo
 
-Apuntes personales y ejercicios del libro "Pseudocódigo para principiantes" de Carlos Pes.
+Apuntes personales resumidos y ejercicios del libro "Pseudocódigo para principiantes" de Carlos Pes.
 
-**Este repositorio está creado únicamente como práctica y un seguimiento personal del libro, de forma que bajo ningún concepto trata de reemplazar, sustituir o divulgar su contenido. Insto a todo visitante a la compra del libro si está interesado en aprender sobre pseudocódigo.**
+**Este repositorio está creado únicamente como práctica y un seguimiento personal del libro, de forma que bajo ningún concepto trata de reemplazar, sustituir o divulgar su contenido. Insto a todo visitante a la compra del libro si está interesado en aprender sobre pseudocódigo. El contenido de este repositorio no representa la totalidad del contenido del libro ni pretende reemplazarlo.**
 
 ## Sobre el libro
 
