@@ -1,4 +1,3 @@
----
 # Capítulo 2: Tipos de datos
 
 ## ¿Qué es un dato?
